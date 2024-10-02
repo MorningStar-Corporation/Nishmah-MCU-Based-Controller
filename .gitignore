@@ -1,3 +1,9 @@
+# Binaries
+bin
+
+# Build files
+build
+
 # Prerequisites
 *.d
 
@@ -17,6 +23,7 @@
 *.pch
 
 # Libraries
+lib
 *.lib
 *.a
 *.la
