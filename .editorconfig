@@ -1,0 +1,19 @@
+# ------------------------------------------------------------------------------------
+#  File Rationale: EditorConfig Tool Configuration File.
+#  Author: Stein
+#
+#  Creation Date: 2024-05-15T22:40-03:00
+#  Last Modified at: 2024-05-15T22:40-03:00
+#
+#  Copyright(C) 2024 MorningStar Corporation LTD. All Rights Reserved.
+# ------------------------------------------------------------------------------------
+
+root = true
+
+[*]
+indent_style = tab
+indent_size = 3
+trim_trailing_whitespace = true
+insert_final_newline = true
+charset = utf-8
+end_of_line = lf
